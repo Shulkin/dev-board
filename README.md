@@ -10,10 +10,20 @@
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://blog.risingstack.com) [RisingStack](https://blog.risingstack.com)
 
 ## Libraries
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://jquery.com) [jQuery](https://jquery.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://jqueryui.com) [jQuery UI](https://jqueryui.com)
 ### Utilities
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://underscorejs.org) [Underscore.js](http://underscorejs.org)
 ### Cartography
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://openlayers.org) [OpenLayers](https://openlayers.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://leafletjs.com) [Leaflet](http://leafletjs.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://cesiumjs.org) [Cesium](https://cesiumjs.org)
 
 ## JavaScript MV* Frameworks
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://backbonejs.org) [Backbone.js](http://backbonejs.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://angular.io) [Angular](https://angular.io)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://vuejs.org) [Vue.js](http://vuejs.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://facebook.github.io/react) [React](https://facebook.github.io/react)
 
 ## CSS Frameworks
 
