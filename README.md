@@ -12,9 +12,7 @@
 ## Libraries
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://jquery.com) [jQuery](https://jquery.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://jqueryui.com) [jQuery UI](https://jqueryui.com)
-### Utilities
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://underscorejs.org) [Underscore.js](http://underscorejs.org)
-### Cartography
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://openlayers.org) [OpenLayers](https://openlayers.org)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://leafletjs.com) [Leaflet](http://leafletjs.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://cesiumjs.org) [Cesium](https://cesiumjs.org)
@@ -26,6 +24,16 @@
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://facebook.github.io/react) [React](https://facebook.github.io/react)
 
 ## CSS Frameworks
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://getbootstrap.com) [Bootstrap](http://getbootstrap.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://foundation.zurb.com) [Foundation](http://foundation.zurb.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://materializecss.com) [Materialize](http://materializecss.com)
+
+## Preprocessors
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://blot.im/typeset) [Typeset](https://blot.im/typeset)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://sass-lang.com) [SASS](http://sass-lang.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://lesscss.org) [LESS](http://lesscss.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://stylus-lang.com) [Stylus](http://stylus-lang.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.typescriptlang.org) [TypeScript](http://www.typescriptlang.org)
 
 ## Icons and Fonts
 
@@ -36,8 +44,3 @@
 ## Version Control
 
 ## Google Chrome Extensions
-
-## Preprocessors
-### HTML
-### CSS
-### JavaScript
