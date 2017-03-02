@@ -88,7 +88,7 @@
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://css-tricks.com/snippets) [CSS-Tricks Code Snippets](https://css-tricks.com/snippets)
 
 ## Various Lists
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://enboard.co/frontend) [Front End Resources Board](https://enboard.co/frontend)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://enboard.co/frontend) [Frontend Resources Board](https://enboard.co/frontend)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://frontend.directory) [Frontend.Directory](https://frontend.directory)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://oozled.com) [Oozled](http://oozled.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.designerslist.info) [Designers List](https://www.designerslist.info)
