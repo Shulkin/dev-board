@@ -78,11 +78,21 @@
 ## Guidelines & Architecture
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://en.bem.info/methodology) [BEM](https://en.bem.info/methodology)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://cssguidelin.es) [CSS Guidelines](http://cssguidelin.es)
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/rwaldron/idiomatic.js) [Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/rwaldron/idiomatic.js) [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 
 ## Media
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://realfavicongenerator.net) [Real Favicon Generator](http://realfavicongenerator.net)
 
 ## Snippets
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://css-tricks.com/snippets/html) [CSS-Tricks Code Snippets](https://css-tricks.com/snippets/html)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://css-tricks.com/snippets) [CSS-Tricks Code Snippets](https://css-tricks.com/snippets)
+
+## Various Lists
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://enboard.co/frontend) [Front End Resources Board](https://enboard.co/frontend)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://frontend.directory) [Frontend.Directory](https://frontend.directory)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://oozled.com) [Oozled](http://oozled.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.designerslist.info) [Designers List](https://www.designerslist.info)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/h5bp/Front-end-Developer-Interview-Questions) [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/sorrycc/awesome-javascript) [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/sindresorhus/awesome-nodejs) [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/sindresorhus/awesome) [Awesome](https://github.com/sindresorhus/awesome)
