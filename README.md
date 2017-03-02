@@ -35,9 +35,18 @@
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://stylus-lang.com) [Stylus](http://stylus-lang.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.typescriptlang.org) [TypeScript](http://www.typescriptlang.org)
 
-## Icons and Fonts
+## Fonts and Icons
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://fonts.google.com) [Google Fonts](https://fonts.google.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://fontawesome.io) [Font Awesome](http://fontawesome.io)
+
+## Placeholders
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://placehold.it) [Placehold It](http://placehold.it)
 
 ## Graphics and Animation
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/tweenjs/tween.js) [Tween](https://github.com/tweenjs/tween.js)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://dynamicsjs.com) [Dynamics.js](http://dynamicsjs.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.pixijs.com) [Pixi.js](http://www.pixijs.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://phaser.io) [Phaser](https://phaser.io)
 
 ## Workflow
 
