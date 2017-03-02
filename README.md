@@ -35,21 +35,54 @@
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://stylus-lang.com) [Stylus](http://stylus-lang.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.typescriptlang.org) [TypeScript](http://www.typescriptlang.org)
 
-## Fonts and Icons
+## Fonts & Icons
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://fonts.google.com) [Google Fonts](https://fonts.google.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://fontawesome.io) [Font Awesome](http://fontawesome.io)
 
 ## Placeholders
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://placehold.it) [Placehold It](http://placehold.it)
 
-## Graphics and Animation
+## Graphics & Animation
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/tweenjs/tween.js) [Tween](https://github.com/tweenjs/tween.js)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://dynamicsjs.com) [Dynamics.js](http://dynamicsjs.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.pixijs.com) [Pixi.js](http://www.pixijs.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://phaser.io) [Phaser](https://phaser.io)
 
 ## Workflow
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://gulpjs.com) [Gulp](http://gulpjs.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://gruntjs.com) [Grunt](http://gruntjs.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://bower.io) [Bower](http://bower.io)
 
 ## Version Control
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://git-scm.com) [Git](https://git-scm.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com) [GitHub](https://github.com)
+
+## Modules
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://requirejs.org) [RequireJS](http://requirejs.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://webpack.github.io) [webpack](https://webpack.github.io)
+
+## Responsiveness
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://ami.responsivedesign.is) [Am I Responsive?](http://ami.responsivedesign.is)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.responsinator.com) [Responsinator](http://www.responsinator.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://quirktools.com/screenfly) [Screenfly](http://quirktools.com/screenfly)
+
+## Compatibility
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://caniuse.com) [Can I use...](http://caniuse.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/postcss/autoprefixer) [Autoprefixer](https://github.com/postcss/autoprefixer)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://modernizr.com) [Modernizr](https://modernizr.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.browserstack.com) [Browser Stack](https://www.browserstack.com)
 
 ## Google Chrome Extensions
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://felixniklas.com/dimensions) [Dimensions](http://felixniklas.com/dimensions)
+
+## Guidelines & Architecture
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://en.bem.info/methodology) [BEM](https://en.bem.info/methodology)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://cssguidelin.es) [CSS Guidelines](http://cssguidelin.es)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/rwaldron/idiomatic.js) [Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+
+## Media
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://realfavicongenerator.net) [Real Favicon Generator](http://realfavicongenerator.net)
+
+## Snippets
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://css-tricks.com/snippets/html) [CSS-Tricks Code Snippets](https://css-tricks.com/snippets/html)
