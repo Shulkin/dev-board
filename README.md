@@ -87,6 +87,9 @@
 ## Snippets
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://css-tricks.com/snippets) [CSS-Tricks Code Snippets](https://css-tricks.com/snippets)
 
+## Learning
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017) [Frontend Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017)
+
 ## Various Lists
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://enboard.co/frontend) [Frontend Resources Board](https://enboard.co/frontend)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://frontend.directory) [Frontend.Directory](https://frontend.directory)
