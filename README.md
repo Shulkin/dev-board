@@ -1,4 +1,4 @@
-# Front-end web resources
+# Frontend web resources
 
 ## Blogs
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://scotch.io) [Scotch.io](http://scotch.io)
