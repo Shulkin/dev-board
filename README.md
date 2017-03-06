@@ -30,8 +30,8 @@
 
 ## Preprocessors
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=https://blot.im/typeset) [Typeset](https://blot.im/typeset)
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://sass-lang.com) [SASS](http://sass-lang.com)
-* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://lesscss.org) [LESS](http://lesscss.org)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://sass-lang.com) [Sass](http://sass-lang.com)
+* ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://lesscss.org) [Less](http://lesscss.org)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://stylus-lang.com) [Stylus](http://stylus-lang.com)
 * ![](http://s2.googleusercontent.com/s2/favicons?domain_url=http://www.typescriptlang.org) [TypeScript](http://www.typescriptlang.org)
 
